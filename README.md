@@ -70,5 +70,6 @@ A third-year student of computer science at the Silesian University of Technolog
 ## 📫 Contact Me
 * **Email:** sm311405@student.polsl.pl
 * **LinkedIn:** [linkedin.com/in/szymon-molenda](https://linkedin.com/in/szymon-molenda)
-* **GitHub:** [github.com/SzymonMolenda](https://github.com/SzymonMolenda)/linkedin.com/in/szymon-molenda)
+* **GitHub:** [github.com/SzymonMolenda](https://github.com/SzymonMolenda)
+* 
 
