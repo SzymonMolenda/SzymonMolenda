@@ -35,7 +35,7 @@ SzymonMolenda / README.md
 
 📧 [sm311405@student.polsl.pl](mailto:sm311405@student.polsl.pl)  
 💼 [linkedin.com/in/szymon-molenda](https://linkedin.com/in/szymon-molenda)  
-💻 [github.com/SzymonMolenda](https://github.com/SzymonMolenda)
+
 
   
 
